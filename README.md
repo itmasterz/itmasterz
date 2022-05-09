@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @itmasterz
-- 👀 I’m interested in CYBERSECURITY AND ETHICAL HACKING
-- 📫 You can reach me at lcksft@gmail.com
+We all know that internet download manager categorizes files and saves the downloads accordingly.
+its difficult to view the files directly.
+the following project will direct all those categories to a single downloads directory.
 
-<!---
-itmasterz/itmasterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+thanks in advance keep supporting :)ITmasterz
